@@ -1,4 +1,4 @@
-# SPS_Coursework_1
+# wine_classifier_sps_2019
 
 Coursework for Symbols, Patterns, and Signals - 2019
 
